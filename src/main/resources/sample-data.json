@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Organic Bananas",
+    "price": 2.99,
+    "quantity": 6,
+    "category": "Fruits"
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "price": 4.50,
+    "quantity": 2,
+    "category": "Bakery"
+  },
+  {
+    "name": "Greek Yogurt",
+    "price": 5.99,
+    "quantity": 1,
+    "category": "Dairy"
+  },
+  {
+    "name": "Chicken Breast",
+    "price": 12.99,
+    "quantity": 3,
+    "category": "Meat"
+  },
+  {
+    "name": "Olive Oil",
+    "price": 8.75,
+    "quantity": 1,
+    "category": "Cooking"
+  },
+  {
+    "name": "Spinach",
+    "price": 3.25,
+    "quantity": 2,
+    "category": "Vegetables"
+  },
+  {
+    "name": "Almonds",
+    "price": 9.99,
+    "quantity": 1,
+    "category": "Nuts"
+  }
+]

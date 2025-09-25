@@ -1,0 +1,9 @@
+target/
+!target/shopping-list-api-0.0.1-SNAPSHOT.jar
+src/
+*.md
+.git/
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
